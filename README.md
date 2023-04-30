@@ -4,13 +4,13 @@
 Github Stats
 ---
 ![Domis's GitHub stats](https://github-readme-stats.vercel.app/api?username=domonkos97&show_icons=true&theme=swift&hide_rank=true&card_width=1000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domonkos97&theme=swift&langs_count=5)](https://github.com/domonkos97)
 
 Projects
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domonkos97&repo=philosophy-reads-1.0&theme=swift)](https://github.com/domonkos97/philosophy-reads-1.0)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domonkos97&repo=TransactStat&theme=swift)](https://github.com/domonkos97/TransactStat)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domonkos97&theme=swift&langs_count=5)](https://github.com/domonkos97)
 
 Skills
 ---
