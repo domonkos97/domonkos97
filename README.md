@@ -22,8 +22,9 @@ Socials
 
 [![LinkedIn][linkedin-img]][linkedin-url] [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discord-url]
 
-[![Node.js][nodejs-badge]][nodejs-url]
-
+<div style="height: 25px;">
+  [![Node.js][nodejs-badge]][nodejs-url]
+</div>
 [nodejs-badge]: https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=&logoColor=white
 [nodejs-url]: https://nodejs.org/
 
