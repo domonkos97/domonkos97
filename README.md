@@ -17,7 +17,10 @@ Skills
 
 [![Java-Spring][Spring]][Spring-url] [![Spring-Boot][SpringBoot]][SpringBoot-url] [![Hibernate][hibernate]][hibernate-url] [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![Angular][angular-img]][angular-url] [![JavaScript][javascript-img]][javascript-url] [![Python][python-img]][python-url] [![Java][java-img]][java-url]  [![HTML][html-img]][html-url] [![CSS][css-img]][css-url] [![Tailwind][Tailwind]][Tailwind-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![Bootstrap][Bootstrap]][Bootstrap-url] [![Sass][sass-img]][sass-url] [![SCSS][scss-img]][scss-url]
 
-[![LinkedIn][linkedin-img]][linkedin-url]
+Socials
+---
+
+[![LinkedIn][linkedin-img]][linkedin-url] [![Discord][discord-img]][discord-url]
 
 
 [sass-img]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
@@ -76,4 +79,7 @@ Skills
 
 [angular-img]: https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [angular-url]: https://angular.io/
+
+[discord-img]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+[discord-url]: https://discord.gg/your-server-invite-code
 
