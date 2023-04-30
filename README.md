@@ -26,3 +26,26 @@ Check out my LinkedIn here: [![domi][domi-linkedin-shield]][domi-linkedin-url]
 
   
   
+
+[domi-linkedin-shield]: https://img.shields.io/badge/-Szabó_Domonkos-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[domi-linkedin-url]: https://www.linkedin.com/in/szab%C3%B3-domonkos-201247264/
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+
+[Spring]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+[Spring-url]: https://spring.io
+[Java]: 	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+
+[SpringBoot]: https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
+[SpringBoot-url]: https://spring.io/projects/spring-boot
+
+[PostgreSQL]: https://img.shields.io/badge/Postgresql-20232A?style=for-the-badge&logo=postgresql
+[postgres-url]:https://postgresql.org
+
+[hibernate]: https://img.shields.io/badge/Hibernate-20232A?style=for-the-badge&logo=hibernate&logoColor=61DAFB
+[hibernate-url]: https://hibernate.org
+
