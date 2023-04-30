@@ -15,7 +15,7 @@ Projects
 Skills
 ---
 
-[![Java-Spring][Spring]][Spring-url] [![Spring-Boot][SpringBoot]][SpringBoot-url] [![Hibernate][hibernate]][hibernate-url] [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![Angular][angular-img]][angular-url] [![JavaScript][javascript-img]][javascript-url] [![Python][python-img]][python-url] [![Java][java-img]][java-url]  [![HTML][html-img]][html-url] [![CSS][css-img]][css-url] [![Tailwind][Tailwind]][Tailwind-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![Bootstrap][Bootstrap]][Bootstrap-url] [![Sass][sass-img]][sass-url] [![SCSS][scss-img]][scss-url]
+[![Python][python-img]][python-url] [![Java][java-img]][java-url] [![JavaScript][javascript-img]][javascript-url]  [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Angular][angular-img]][angular-url] [![Java-Spring][Spring]][Spring-url] [![HTML][html-img]][html-url] [![CSS][css-img]][css-url] ![Tailwind][Tailwind]][Tailwind-url] [![Spring-Boot][SpringBoot]][SpringBoot-url] [![Hibernate][hibernate]][hibernate-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [ [![Bootstrap][Bootstrap]][Bootstrap-url] [![Sass][sass-img]][sass-url] [![SCSS][scss-img]][scss-url]
 
 Socials
 ---
