@@ -3,7 +3,7 @@
 
 Github Stats
 ---
-![Domis's GitHub stats](https://github-readme-stats.vercel.app/api?username=domonkos97&show_icons=true&theme=swift&hide_rank=true)
+![Domis's GitHub stats](https://github-readme-stats.vercel.app/api?username=domonkos97&show_icons=true&theme=swift&hide_rank=true&card_width=1000)
 
 Projects
 ---
