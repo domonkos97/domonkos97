@@ -1,10 +1,9 @@
 ### Hi,
 #### My name is Domi.
 
-I am from Hungary and I am a fullstack developer. 
+I am a fullstack developer from Hungary.
 
-My forte is JS and React, but I also enjoy development in Java, Python, Spring or Flask. I am interested in data science, and have a strong SQL knowledge. I  love learning new tech, currently I am exploring Angular and NodeJS.
-
+I specialize in frontend technologies, including JavaScript and React, but I am also skilled in Java and Python. I have a strong foundation in SQL and a keen interest in data science. I enjoy learning new technologies, and I am currently focused on exploring Angular and NodeJS.
 
 Github Stats
 ---
