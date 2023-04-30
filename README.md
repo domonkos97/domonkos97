@@ -17,9 +17,8 @@ Skills
 
 [![Java-Spring][Spring]][Spring-url] [![Spring-Boot][SpringBoot]][SpringBoot-url] [![Hibernate][hibernate]][hibernate-url] [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![Angular][angular-img]][angular-url] [![JavaScript][javascript-img]][javascript-url] [![Python][python-img]][python-url] [![Java][java-img]][java-url]  [![HTML][html-img]][html-url] [![CSS][css-img]][css-url] [![Tailwind][Tailwind]][Tailwind-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![Bootstrap][Bootstrap]][Bootstrap-url] [![Sass][sass-img]][sass-url] [![SCSS][scss-img]][scss-url]
 
-  
-Check out my LinkedIn here: <br>
-[![domi][domi-linkedin-shield]][domi-linkedin-url]
+[![LinkedIn][linkedin-img]][linkedin-url]
+
 
 [sass-img]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 [sass-url]: https://sass-lang.com/
@@ -53,8 +52,8 @@ Check out my LinkedIn here: <br>
 [javascript-img]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [javascript-url]: https://www.javascript.com/
 
-[domi-linkedin-shield]: https://img.shields.io/badge/-Szabó_Domonkos-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[domi-linkedin-url]: https://www.linkedin.com/in/szab%C3%B3-domonkos-201247264/
+[linkedin-img]: https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/your-username/
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
