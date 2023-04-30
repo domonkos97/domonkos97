@@ -24,8 +24,8 @@ Socials
 
 <a href="[your-nodejs-url]"><img src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" alt="Node.js" style="height: 28px; width: auto;" /></a>
 
-<a href="[Tailwind-url]">
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS badge" style="height: 28px; padding: 4px; border: none; font-weight: 700; color: white; background-color: #38B2AC; border-radius: 0; text-align: center; display: inline-flex; align-items: center; justify-content: center;">
+<a href="https://nodejs.org/" rel="nofollow">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" style="padding: 4px 8px; border: none; font-weight: bold; color: white; background-color: #43853D; border-radius: 0;" />
 </a>
 
 
