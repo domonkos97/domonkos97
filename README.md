@@ -20,7 +20,8 @@ Skills
 Socials
 ---
 
-[![LinkedIn][linkedin-img]][linkedin-url] [![Discord][discord-img]][discord-url]
+[![LinkedIn][linkedin-img]][linkedin-url] [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discord-url]
+
 
 
 [sass-img]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
@@ -80,6 +81,6 @@ Socials
 [angular-img]: https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [angular-url]: https://angular.io/
 
-[discord-img]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-[discord-url]: https://discord.gg/your-server-invite-code
+[discord-url]: https://discordapp.com/users/szabo.domonkos#9789
+
 
