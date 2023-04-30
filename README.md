@@ -15,8 +15,7 @@ Projects
 Skills
 ---
 
-[![Python][python-img]][python-url] [![Java][java-img]][java-url] [![JavaScript][javascript-img]][javascript-url]  [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Angular][angular-img]][angular-url] [![Java-Spring][Spring]][Spring-url] [![HTML][html-img]][html-url] [![CSS][css-img]][css-url] [![Tailwind][Tailwind]][Tailwind-url] [![Spring-Boot][SpringBoot]][SpringBoot-url] [![Hibernate][hibernate]][hibernate-url] [![Bootstrap][Bootstrap]][Bootstrap-url] [![Sass][sass-img]][sass-url] [![SCSS][scss-img]][scss-url]
-
+[![Python][python-img]][python-url] [![Java][java-img]][java-url] [![JavaScript][javascript-img]][javascript-url]  [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Angular][angular-img]][angular-url] [![Java-Spring][Spring]][Spring-url] [![HTML][html-img]][html-url] [![CSS][css-img]][css-url] [![Tailwind][Tailwind]][Tailwind-url] [![Spring-Boot][SpringBoot]][SpringBoot-url] [![Hibernate][hibernate]][hibernate-url] [![Bootstrap][Bootstrap]][Bootstrap-url] [![Sass][sass-img]][sass-url] [![SCSS][scss-img]][scss-url] [![Tailwind][Tailwind]][Tailwind-url]
 
 Socials
 ---
@@ -81,6 +80,9 @@ Socials
 
 [angular-img]: https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [angular-url]: https://angular.io/
+
+[nodejs-img]: https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white
+[nodejs-url]: https://nodejs.org/
 
 [discord-url]: https://discordapp.com/users/szabo.domonkos#9789
 
