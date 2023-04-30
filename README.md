@@ -1,6 +1,6 @@
 ![profile](domi-profile.png)
 
-I specialize in frontend technologies, including JavaScript and React, but I am also skilled in Java and Python. I have a strong foundation in SQL and a keen interest in data science. I enjoy learning new technologies, and I am currently focused on exploring Angular and NodeJS.
+## I specialize in frontend technologies, including JavaScript and React, but I am also skilled in Java and Python. I have a strong foundation in SQL and a keen interest in data science. I enjoy learning new technologies, and I am currently focused on exploring Angular and NodeJS.
 
 Github Stats
 ---
