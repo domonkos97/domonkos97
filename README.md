@@ -20,7 +20,7 @@ Skills
 JAVASCRIPT / PYTHON / JAVA / REACT / ANGULAR / SPRING / HTML / CSS / SQL / TAILWIND / BOOTSTRAP / SASS / SCSS
 
   
-Check out my LinkedIn here: 
+Check out my LinkedIn here: <br>
 [![domi][domi-linkedin-shield]][domi-linkedin-url]
 
   
