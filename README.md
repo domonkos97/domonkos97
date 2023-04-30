@@ -15,14 +15,12 @@ Projects
 Skills
 ---
 
-[![Python][python-img]][python-url] [![Java][java-img]][java-url] [![JavaScript][javascript-img]][javascript-url]  [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Angular][angular-img]][angular-url] [![Java-Spring][Spring]][Spring-url] [![HTML][html-img]][html-url] [![CSS][css-img]][css-url] [![Tailwind][Tailwind]][Tailwind-url] [![Hibernate][hibernate]][hibernate-url] [![Node.js][nodejs-img]][nodejs-url] [![Bootstrap][Bootstrap]][Bootstrap-url] [![Sass][sass-img]][sass-url] [![SCSS][scss-img]][scss-url] 
+[![Python][python-img]][python-url] [![Java][java-img]][java-url] [![JavaScript][javascript-img]][javascript-url]  [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Angular][angular-img]][angular-url] [![Java-Spring][Spring]][Spring-url] [![HTML][html-img]][html-url] [![CSS][css-img]][css-url] [![Tailwind][Tailwind]][Tailwind-url] [![Hibernate][hibernate]][hibernate-url] <a href="[your-nodejs-url]"><img src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" alt="Node.js" style="height: 28px; padding:4px; width: auto; border-radius:0 !important;" /></a> [![Bootstrap][Bootstrap]][Bootstrap-url] [![Sass][sass-img]][sass-url] [![SCSS][scss-img]][scss-url] 
 
 Socials
 ---
 
 [![LinkedIn][linkedin-img]][linkedin-url] [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discord-url]
-
-<a href="[your-nodejs-url]"><img src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" alt="Node.js" style="height: 28px; padding:4px; width: auto; border-radius:0 !important;" /></a>
 
 
 [nodejs-badge]: https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=&logoColor=white
