@@ -17,9 +17,10 @@ Projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domonkos97&layout=compact)](https://github.com/domonkos97)
 
-Skills: JAVASCRIPT / PYTHON / JAVA / REACT / ANGULAR / SPRING / HTML / CSS / SQL / TAILWIND / BOOTSTRAP / SASS / SCSS
+Skills
+---
 
-[![Java-Spring][Spring]][Spring-url] [![Spring-Boot][SpringBoot]][SpringBoot-url] [![Hibernate][hibernate]][hibernate-url] [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![Java-Spring][Spring]][Spring-url] [![Spring-Boot][SpringBoot]][SpringBoot-url] [![Hibernate][hibernate]][hibernate-url] [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] JAVASCRIPT / PYTHON / JAVA / REACT / ANGULAR / SPRING / HTML / CSS / SQL / TAILWIND / BOOTSTRAP / SASS / SCSS
 
   
 Check out my LinkedIn here: 
