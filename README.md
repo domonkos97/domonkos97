@@ -22,6 +22,7 @@ Skills: JAVASCRIPT / PYTHON / JAVA / REACT / ANGULAR / SPRING / HTML / CSS / SQL
 * [![Java-Spring][Spring]][Spring-url]
 
   
-Check out my LinkedIn here: https://www.linkedin.com/in/szab%C3%B3-domonkos-201247264/
+Check out my LinkedIn here: [![domi][domi-linkedin-shield]][domi-linkedin-url]
+
   
   
