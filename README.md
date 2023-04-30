@@ -15,7 +15,7 @@ Projects
 Skills
 ---
 
-[![Python][python-img]][python-url] [![Java][java-img]][java-url] [![JavaScript][javascript-img]][javascript-url]  [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Angular][angular-img]][angular-url] [![Java-Spring][Spring]][Spring-url] [![HTML][html-img]][html-url] [![CSS][css-img]][css-url] [![Tailwind][Tailwind]] [![Spring-Boot][SpringBoot]][SpringBoot-url] [![Hibernate][hibernate]][hibernate-url] [![Bootstrap][Bootstrap]][Bootstrap-url] [![Sass][sass-img]][sass-url] [![SCSS][scss-img]][scss-url]
+[![Python][python-img]][python-url] [![Java][java-img]][java-url] [![JavaScript][javascript-img]][javascript-url]  [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Angular][angular-img]][angular-url] [![Java-Spring][Spring]][Spring-url] [![HTML][html-img]][html-url] [![CSS][css-img]][css-url] [![Tailwind][Tailwind] [![Spring-Boot][SpringBoot]][SpringBoot-url] [![Hibernate][hibernate]][hibernate-url] [![Bootstrap][Bootstrap]][Bootstrap-url] [![Sass][sass-img]][sass-url] [![SCSS][scss-img]][scss-url]
 
 Socials
 ---
