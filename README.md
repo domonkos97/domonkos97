@@ -15,7 +15,7 @@ Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domonkos97&repo=philosophy-reads-1.0)](https://github.com/domonkos97/philosophy-reads-1.0)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abukfa97&repo=TransactStat)](https://github.com/abukfa97/TransactStat)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domonkos97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domonkos97&layout=compact)](https://github.com/domonkos97)
 
 Skills: JAVASCRIPT / PYTHON / JAVA / REACT / ANGULAR / SPRING / HTML / CSS / SQL / TAILWIND / BOOTSTRAP / SASS / SCSS
 
