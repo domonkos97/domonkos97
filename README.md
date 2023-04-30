@@ -20,9 +20,15 @@ Projects
 Skills: JAVASCRIPT / PYTHON / JAVA / REACT / ANGULAR / SPRING / HTML / CSS / SQL / TAILWIND / BOOTSTRAP / SASS / SCSS
 
 * [![Java-Spring][Spring]][Spring-url]
+* [![Spring-Boot][SpringBoot]][SpringBoot-url]
+* [![Hibernate][hibernate]][hibernate-url]
+* [![Postgres][PostgreSQL]][postgres-url]
+* [![React][React.js]][React-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
   
-Check out my LinkedIn here: [![domi][domi-linkedin-shield]][domi-linkedin-url]
+Check out my LinkedIn here: 
+[![domi][domi-linkedin-shield]][domi-linkedin-url]
 
   
   
