@@ -1,7 +1,9 @@
 ### Hi,
 #### My name is Domi.
 
-I am from Hungary and I am a fullstack developer. My main forte is JS and React, but I also enjoy developent with Java Spring or Python Flask. I am also interested in data science, and have a strong SQL knowledge. I  love learning new tech, currently I am exploring Angular and NodeJS.
+I am from Hungary and I am a fullstack developer. 
+
+My forte is JS and React, but I also enjoy development in Java, Python, Spring or Flask. I am interested in data science, and have a strong SQL knowledge. I  love learning new tech, currently I am exploring Angular and NodeJS.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domonkos97&show_icons=true&theme=radical)
 
