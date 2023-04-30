@@ -1,5 +1,5 @@
 ![profile](domi-profile.png)
-![bio](bio.png)
+![bio](bio)
 
 Github Stats
 ---
