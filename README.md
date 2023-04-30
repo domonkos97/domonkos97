@@ -15,7 +15,9 @@ Projects
 Skills
 ---
 
-[![Java-Spring][Spring]][Spring-url] [![Spring-Boot][SpringBoot]][SpringBoot-url] [![Hibernate][hibernate]][hibernate-url] [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] JAVASCRIPT / PYTHON / JAVA / REACT / ANGULAR / SPRING / HTML / CSS / SQL / TAILWIND / BOOTSTRAP / SASS / SCSS
+[![Java-Spring][Spring]][Spring-url] [![Spring-Boot][SpringBoot]][SpringBoot-url] [![Hibernate][hibernate]][hibernate-url] [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![Angular][angular-img]][angular-url]
+
+JAVASCRIPT / PYTHON / JAVA / REACT / ANGULAR / SPRING / HTML / CSS / SQL / TAILWIND / BOOTSTRAP / SASS / SCSS
 
   
 Check out my LinkedIn here: 
@@ -45,4 +47,7 @@ Check out my LinkedIn here:
 
 [hibernate]: https://img.shields.io/badge/Hibernate-20232A?style=for-the-badge&logo=hibernate&logoColor=61DAFB
 [hibernate-url]: https://hibernate.org
+
+[angular-img]: https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[angular-url]: https://angular.io/
 
