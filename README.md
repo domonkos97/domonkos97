@@ -4,7 +4,7 @@
 Github Stats
 ---
 ![Domis's GitHub stats](https://github-readme-stats.vercel.app/api?username=domonkos97&show_icons=true&theme=swift&hide_rank=true&card_width=1000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domonkos97&theme=swift&langs_count=5&card_width=1000)](https://github.com/domonkos97)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domonkos97&theme=swift&langs_count=7&card_width=1000&include_all_commits=true)](https://github.com/domonkos97)
 
 Projects
 ---
