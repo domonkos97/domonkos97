@@ -8,26 +8,10 @@ Projects
 Skills
 ---
 
-[![Python][python-img]][python-url] [![Java][java-img]][java-url] [![JavaScript][javascript-img]][javascript-url]  [![Postgres][PostgreSQL]][postgres-url] [![React][React.js]][React-url] [![Java-Spring][Spring]][Spring-url] [![HTML][html-img]][html-url] [![CSS][css-img]][css-url]  
-[![TypeScript][typescript-img]][typescript-url] [![NestJS][nestjs-img]][nestjs-url] [![Firebase][firebase-img]][firebase-url] [![C#][csharp-img]][csharp-url] [![Godot][godot-img]][godot-url] [![MongoDB][mongodb-img]][mongodb-url]
-
-[nodejs-badge]: https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=&logoColor=white
-[nodejs-url]: https://nodejs.org/
-
-[sass-img]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-[sass-url]: https://sass-lang.com/
-
-[scss-img]: https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white
-[scss-url]: https://sass-lang.com/documentation/syntax#scss
-
-[Tailwind]: https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[Tailwind-url]: https://tailwindcss.com/
+[![JavaScript][javascript-img]][javascript-url] [![TypeScript][typescript-img]][typescript-url] [![React][React.js]][React-url] [![Python][python-img]][python-url] [![Java][java-img]][java-url] [![HTML][html-img]][html-url] [![CSS][css-img]][css-url] [![Postgres][PostgreSQL]][postgres-url] [![MongoDB][mongodb-img]][mongodb-url] [![NestJS][nestjs-img]][nestjs-url] [![Java-Spring][Spring]][Spring-url] [![Firebase][firebase-img]][firebase-url] [![C#][csharp-img]][csharp-url] [![Godot][godot-img]][godot-url] 
 
 [PostgreSQL]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 [PostgreSQL-url]: https://www.postgresql.org/
-
-[Bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com/
 
 [css-img]: https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3
 [css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -50,20 +34,8 @@ Skills
 [Spring]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 [Spring-url]: https://spring.io
 
-[SpringBoot]: https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
-[SpringBoot-url]: https://spring.io/projects/spring-boot
-
 [PostgreSQL]: https://img.shields.io/badge/Postgresql-20232A?style=for-the-badge&logo=postgresql
 [postgres-url]: https://postgresql.org
-
-[hibernate]: https://img.shields.io/badge/Hibernate-20232A?style=for-the-badge&logo=hibernate&logoColor=61DAFB
-[hibernate-url]: https://hibernate.org
-
-[angular-img]: https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[angular-url]: https://angular.io/
-
-[nodejs-img]: https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white
-[nodejs-url]: https://nodejs.org/
 
 [typescript-img]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [typescript-url]: https://www.typescriptlang.org/
@@ -82,8 +54,3 @@ Skills
 
 [mongodb-img]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
 [mongodb-url]: https://www.mongodb.com/
-
-[linkedin-img]: https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/your-username/
-
-[discord-url]: https://discordapp.com/users/szabo.domonkos#9789
