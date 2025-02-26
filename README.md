@@ -4,8 +4,6 @@ Github Stats
 
 Projects
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domonkos97&repo=philosophy-reads-1.0&theme=swift)](https://github.com/domonkos97/philosophy-reads-1.0)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=domonkos97&repo=TransactStat&theme=swift)](https://github.com/domonkos97/TransactStat)
 
 
 Skills
